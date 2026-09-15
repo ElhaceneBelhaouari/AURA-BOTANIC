@@ -1,0 +1,205 @@
+{
+  "meta": {
+    "title": "Aura Botanica — Huiles botaniques pressées à froid"
+  },
+  "announcement": "Livraison neutre en carbone dès 10 000 DA · Récolte sauvage éthique et pression à froid",
+  "nav": {
+    "shop": "Boutique",
+    "story": "Histoire",
+    "botanicals": "Botaniques",
+    "rituals": "Rituels",
+    "search": "Rechercher",
+    "account": "Compte",
+    "cart": "Panier",
+    "menu": "Menu",
+    "language": "Langue",
+    "menuSubtitle": "Apothicaire botanique · pression à froid",
+    "menuExplore": "Explorer",
+    "menuQuick": "Accès rapide",
+    "close": "Fermer"
+  },
+  "hero": {
+    "badge": "RÉSERVE DU DOMAINE · RÉCOLTE D'AUTOMNE 2024",
+    "title": "Essence botanique pure, sans chaleur ni synthèse.",
+    "subtitle": "Huiles pressées à froid, mono-origine et en petites séries pour l'éclat de la peau, la nutrition cellulaire et le bien-être holistique.",
+    "ctaShop": "Découvrir la récolte",
+    "ctaVideo": "Notre rituel d'extraction (2 min)",
+    "trustOrganic": "100 % bio certifié",
+    "trustCold": "Pression à froid en 4 h",
+    "trustZero": "Zéro additif",
+    "floatTitle": "Lot vérifié GC-MS",
+    "floatDesc": "Empreintes chimiques traçables et 99,8 % de densité en polyphénols bioactifs."
+  },
+  "pillars": {
+    "eyebrow": "Intégrité artisanale",
+    "title": "La norme Aura Botanica",
+    "subtitle": "Des vergers ancestraux à votre rituel du soir, nous protégeons la puissance intacte de chaque graine.",
+    "p1Title": "100 % pur et mono-origine",
+    "p1Desc": "Récolté dans des vergers familiaux certifiés bio au Maroc, en Grèce et en Provence. Aucun mélange, aucune base diluée.",
+    "p1Foot": "Provenance mono-domaine",
+    "p2Title": "Première pression à froid",
+    "p2Desc": "Extrait strictement sous 27 °C sans solvants chimiques pour préserver antioxydants, acides gras et vitamines.",
+    "p2Foot": "Processus sans chaleur",
+    "p3Title": "Éthique et sans cruauté",
+    "p3Desc": "Certifié Leaping Bunny, verre ambré recyclable et salaires équitables pour nos coopératives.",
+    "p3Foot": "Vergers commerce équitable"
+  },
+  "products": {
+    "eyebrow": "Collection apothicaire",
+    "title": "Nos récoltes signature",
+    "subtitle": "Élixirs botaniques pressés à froid pour les rituels quotidiens peau et cheveux.",
+    "filters": {
+      "all": "Toutes les huiles",
+      "facial": "Sérums visage",
+      "single": "Mono-origine",
+      "body": "Corps et cuir chevelu"
+    },
+    "addToCart": "Ajouter au panier",
+    "added": "Ajouté",
+    "moroccan-argan": {
+      "origin": "Mono-origine Atlas",
+      "name": "Huile d'argan dorée du Maroc",
+      "desc": "Riche en squalène et vitamine E. Hydratation profonde, élasticité et éclat lumineux.",
+      "volume": "50 ml compte-gouttes",
+      "badge": "Best-seller"
+    },
+    "olive-squalane": {
+      "origin": "Extraction Kalamata",
+      "name": "Squalane d'olive pressé à froid",
+      "desc": "Lipide biomimétique léger issu d'olives centenaires. Pénètre instantanément.",
+      "volume": "30 ml compte-gouttes",
+      "badge": "Primé"
+    },
+    "lavender-oil": {
+      "origin": "Distillation Provence",
+      "name": "Huile de lavande française d'altitude",
+      "desc": "Cueillie à 1 100 m en Haute-Provence. Calme la peau et favorise la réparation nocturne.",
+      "volume": "15 ml essentielle",
+      "badge": "Rituel apaisant"
+    },
+    "rosehip-oil": {
+      "origin": "Récolte Patagonie",
+      "name": "Huile vierge de graines de cynorrhodon",
+      "desc": "Oméga-3/6 et acide trans-rétinoïque. Atténue taches et ridules de déshydratation.",
+      "volume": "30 ml compte-gouttes",
+      "badge": "Rajeunissant"
+    },
+    "jojoba-oil": {
+      "origin": "Désert du Sonora",
+      "name": "Huile biomimétique de jojoba doré",
+      "desc": "Cire liquide proche du sébum. Régule sans obstruer les pores.",
+      "volume": "100 ml flacon",
+      "badge": "Équilibre quotidien"
+    },
+    "prickly-pear": {
+      "origin": "Élixir rare jeunesse",
+      "name": "Nectar de figue de barbarie",
+      "desc": "Une tonne de graines pour un litre. Vitamine K pour cernes et contours.",
+      "volume": "30 ml compte-gouttes",
+      "badge": "Édition limitée"
+    }
+  },
+  "story": {
+    "eyebrow": "De la graine à l'apothicaire",
+    "title": "La peau mérite le sol, pas le laboratoire de synthèse.",
+    "p1": "Chaque goutte est extraite par pression hydraulique seule, sans hexane ni stabilisants synthétiques, sous 27 °C.",
+    "p2": "Chaque flacon porte un sceau de lot et un QR vers les rapports GC-MS de pureté.",
+    "statGlass": "Verre ambré recyclé",
+    "statHexane": "Hexane ou pétrole",
+    "statCoops": "Coopératives partenaires",
+    "link": "Lire notre charte de pureté"
+  },
+  "reviews": {
+    "eyebrow": "Avis vérifiés",
+    "title": "Plébiscité par esthéticiennes et connaisseurs",
+    "subtitle": "Comment la nutrition à froid transforme la barrière cutanée.",
+    "t1": "« L'argan a changé mon hiver : odeur nette, absorption soyeuse, zéro graisse sur l'oreiller. »",
+    "t1Name": "Elena Rostova",
+    "t1Meta": "Acheteuse vérifiée · Peau sèche sensible",
+    "t2": "« Trouver un squalane pressé sous 27 °C avec GC-MS est rare. Mes clientes rosacées sont apaisées. »",
+    "t2Name": "Marcus Vance, esthéticien",
+    "t2Meta": "Acheteur vérifié · Peau mixte à imperfections",
+    "t3": "« Le nectar de figue de barbarie : trois gouttes le soir, cernes visiblement plus clairs en trois semaines. »",
+    "t3Name": "Sophia Channing",
+    "t3Meta": "Acheteuse vérifiée · Peau mature déshydratée"
+  },
+  "newsletter": {
+    "title": "Rejoignez le rituel botanique",
+    "subtitle": "15 % sur votre première récolte, carnets de saison et accès aux lots mono-origine.",
+    "placeholder": "Votre adresse e-mail",
+    "submit": "S'abonner",
+    "fine": "Pas de spam. Désinscription en un clic."
+  },
+  "footer": {
+    "blurb": "Pureté pressée à froid et mono-origine. Récolte durable et tests GC-MS tiers.",
+    "collections": "Collections",
+    "purity": "Pureté",
+    "rituals": "Rituels et soins",
+    "copyright": "© 2024 Aura Botanica Apothecary. Pureté pressée à froid, récolte durable."
+  },
+  "cart": {
+    "title": "Sac rituel",
+    "subtitle": "Sélection pressée à froid",
+    "emptyTitle": "Votre sac attend sa première graine",
+    "empty": "Parcourez la récolte et ajoutez les huiles qui composent votre rituel du soir.",
+    "emptyCta": "Découvrir la récolte",
+    "oneItem": "1 article",
+    "manyItems": "{count} articles",
+    "subtotal": "Sous-total",
+    "shipping": "Livraison",
+    "free": "Gratuite",
+    "total": "Total",
+    "checkout": "Passer commande",
+    "clear": "Vider le sac",
+    "shippingAway": "{amount} avant la livraison gratuite",
+    "shippingUnlocked": "Livraison neutre en carbone débloquée",
+    "remove": "Retirer",
+    "addedToast": "Ajouté à votre sac rituel"
+  },
+  "search": {
+    "placeholder": "Huiles, origines, rituels…",
+    "empty": "Aucun produit pour « {query} ».",
+    "tip": "Astuce : Ctrl+K"
+  },
+  "account": {
+    "title": "Votre compte apothicaire",
+    "signedIn": "Connecté en tant que {email}",
+    "noOrders": "Aucune commande — votre récolte vous attend.",
+    "signOut": "Se déconnecter",
+    "email": "E-mail",
+    "password": "Mot de passe",
+    "signIn": "Se connecter",
+    "demo": "Compte démo — données stockées sur cet appareil uniquement.",
+    "welcome": "Bon retour"
+  },
+  "checkout": {
+    "title": "Paiement sécurisé",
+    "name": "Nom complet",
+    "phone": "Numéro de téléphone",
+    "city": "Ville",
+    "address": "Adresse",
+    "shipmentType": "Mode de livraison",
+    "shipmentStandard": "Standard (3–5 jours ouvrés)",
+    "shipmentExpress": "Express (24–48 h)",
+    "shipmentPickup": "Retrait en boutique",
+    "summary": "Récapitulatif",
+    "place": "Confirmer la commande",
+    "demo": "Commande démo — enregistrée localement sur cet appareil.",
+    "confirmed": "Commande {id} confirmée",
+    "totalLine": "Total {total} — livraison {shipping}."
+  },
+  "video": {
+    "title": "Rituel de pression à froid",
+    "caption": "Pression hydraulique sous 27 °C — sans hexane, sans dégradation thermique."
+  },
+  "toast": {
+    "signedOut": "Déconnecté",
+    "removed": "Retiré du sac",
+    "cleared": "Sac vidé",
+    "welcomeRitual": "Bienvenue au rituel",
+    "promo": "15 % envoyé à {email}",
+    "bagEmpty": "Sac vide",
+    "addFirst": "Ajoutez une récolte d'abord.",
+    "journalSoon": "Contenu complet bientôt dans le journal apothicaire."
+  }
+}
